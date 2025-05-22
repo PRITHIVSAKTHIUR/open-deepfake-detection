@@ -1,0 +1,5 @@
+# Updated label mapping
+id2label = {
+    "0": "Fake",
+    "1": "Real"
+}
